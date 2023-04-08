@@ -1,5 +1,5 @@
 # LER
-Dataset and source code for AAAI 2023 paper "Unsupervised Legal Evidence Retrieval via Contrastive Learning with Approximated Positive"
+Dataset and source code for paper "Unsupervised Legal Evidence Retrieval via Contrastive Learning with Approximated Positive"
 
 
 ## Overview
