@@ -1,0 +1,5 @@
+torch
+transformers
+jsonlines
+scikit-learn
+sentence_transformers

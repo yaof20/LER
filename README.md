@@ -10,7 +10,7 @@ The full dataset can be downloaded via [Google Drive](https://drive.google.com/d
 
 ### Code
 - Prepare the dataset
-  - Unzip this file to get `/data` folder and put it in the root path (`LER`)
+  - Download [`data.zip`](https://drive.google.com/drive/folders/1JL5QeeUSyncUGHhUPvX-vPIySPmF6JSN), unzip to get `/data` folder, and put it in the root path (`LER`)
   - Leave the file names unchanged (consistent with the config files in `LER/config` folder)
   - The directory should look like this:
     ```
@@ -25,5 +25,5 @@ The full dataset can be downloaded via [Google Drive](https://drive.google.com/d
     │       └── train_all_record-wo-test.jsonl
     ...
     ```
-- Check the `config` folder for different experiment settings. 
-- We will try to add more detailed explanations soon ...
+- Check the [`config`](./config) folder for different experiment settings. 
+- Use `train.sh` and `test.sh` to train and evaluate the models.
