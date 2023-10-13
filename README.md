@@ -26,4 +26,4 @@ The full dataset can be downloaded via [Google Drive](https://drive.google.com/d
     ...
     ```
 - Check the [`config`](./config) folder for different experiment settings. 
-- Use `train.sh` and `test.sh` to train and evaluate the models.
+- Use [`train.sh`](./train.sh) and [`test.sh`](./test.sh) to train and evaluate the models.
